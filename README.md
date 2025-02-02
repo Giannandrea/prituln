@@ -35,7 +35,7 @@ services:
       - ./db:/data/db
 
   pritunl:
-    image: goofball222/pritunl:latest
+    image: giannandrea/pritunl:latest
     container_name: pritunl
     hostname: pritunl
     depends_on:
