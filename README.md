@@ -1,6 +1,6 @@
 # Pritunl Docker Container
 
-Based on the [goofball222/pritunl](https://github.com/goofball222/pritunl) project now discontinued.
+Based on the [goofball222](https://github.com/goofball222/pritunl) project now discontinued.
 ---
 
 ## Description
